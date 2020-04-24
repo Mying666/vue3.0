@@ -4,7 +4,7 @@
     <p>{{ text }}</p>
     <p>{{ computedText }}</p>
 
-    <button @click="plusFn">按钮</button>
+    <button @click="plusFn">按钮1</button>
   </div>
 </template>
 
